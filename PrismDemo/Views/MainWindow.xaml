@@ -6,7 +6,7 @@
         xmlns:views="clr-namespace:PrismDemo.Views"
         xmlns:model="clr-namespace:PrismDemo.Model"
         xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
-        Title="MainWindow" Height="350" Width="525">
+        Title="Proteus Test" Height="350" Width="525">
     <Grid>
         <TextBlock x:Name="HiddenItemWithDataContext" Visibility="Collapsed" />
         <TabControl>
